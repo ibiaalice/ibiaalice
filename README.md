@@ -6,6 +6,7 @@
 
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/ibiaalice/)
 [![beatrizalice00@gmail.com](https://img.shields.io/static/v1?label=beatrizalice00@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:beatrizalice00@gmail.com)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)]
   
   
 👨‍💻 23 Years old  
