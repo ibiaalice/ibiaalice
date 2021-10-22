@@ -9,7 +9,7 @@
 
   
   
-👨‍💻 23 Years old  
+👨‍💻 Mobile Developer Junior 
 👨‍🎓 Studying Computer Science at Universidade Federal de Campina Grande
 
 
