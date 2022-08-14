@@ -9,7 +9,7 @@
 
   
   
-👨‍💻 Mobile Developer Junior 
+👨‍💻 Mobile Developer 
 
 👨‍🎓 Studying Computer Science at Universidade Federal de Campina Grande
 
